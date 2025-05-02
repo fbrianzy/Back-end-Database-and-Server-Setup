@@ -1,0 +1,2 @@
+# Back-end Database and Front-end Web Server Setup
+# This Docker Compose file sets up a PostgreSQL database, a Node.js application, and an Nginx web server. The PostgreSQL database is used to store data for the Node.js application, and Nginx serves static files and acts as a reverse proxy for the Node.js application.
